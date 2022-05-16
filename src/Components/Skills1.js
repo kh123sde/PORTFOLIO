@@ -142,7 +142,7 @@ export default function Skills1() {
                                             </Typography>
                                             <Paper elevation={3} className='timelinePaper'>
                                                 <Typography variant="h6" component="h1">
-                                                Orchid Higher Secondary School
+                                                Orchid Science College
                                                 </Typography>
                                                 <Typography>
                                                     Grade XI and XII [NEB] - 70% 
