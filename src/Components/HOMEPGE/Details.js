@@ -32,7 +32,7 @@ export default function Details() {
                     </ListItemIcon>
                     <ListItemText primary="arunpoudel666@gmail.com"  />                                
                 </ListItem >
-                <a href="https://www.adarshasoti.com.np/" style={{color:"black"}}>
+                <a href="https://arunpoudel.netlify.app/" style={{color:"black"}}>
                 <ListItem className='listItem'>
                     <ListItemIcon>
                         <HomeIcon/>
