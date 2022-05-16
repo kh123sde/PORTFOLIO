@@ -37,7 +37,7 @@ export default function Details() {
                     <ListItemIcon>
                         <HomeIcon/>
                     </ListItemIcon>
-                    <ListItemText primary="www.adarshasoti.com.np" />
+                    <ListItemText primary="https://arunpoudel.netlify.app/" />
                 </ListItem>
                 </a>
                 <a href="https://github.com/kh123sde"style={{color:"black"}}>
