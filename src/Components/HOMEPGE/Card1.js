@@ -23,7 +23,7 @@ export default function Card1() {
                   <Divider/>
                   <CardActions disableSpacing>
                       
-                      <a href="https://adarshasoti.com.np/">
+                      <a href="https://arunpoudel.netlify.app/">
                           <Button size="small">
                               View Live
                           </Button>
